@@ -1,5 +1,5 @@
 # Spotify-playlist-with-Terraform
-Terraform data source is used to search Spotify for an artist and use that data to build a playlist.
+Terraform data source is used to search Spotify for an artist and use that data to build a playlist. You can refer to the below document for more details.
 https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist
 
 Terraform registry for data source, i.e; to like search tracks for playlists reference
